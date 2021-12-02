@@ -1,0 +1,16 @@
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Pengulangan\Pengulangan\bin\Debug\Pengulangan.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\Pengulangan.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\Pengulangan.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\Pengulangan.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\System.Net.Http.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\normidna.nlp
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\normnfc.nlp
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\normnfd.nlp
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\normnfkc.nlp
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\obj\Debug\Pengulangan.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\obj\Debug\Pengulangan.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Pengulangan\Pengulangan\obj\Debug\Pengulangan.pdb

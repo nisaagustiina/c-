@@ -1,0 +1,55 @@
+ int a, jawab, jum, total;
+            Console.Write("masukan nilai a = ");
+            a = int.Parse(Console.ReadLine());
+            int[] b = new int[a];
+            for (int bil = 0; bil < a; bil++)
+            {
+                int q = bil + 1;
+                Console.Write("bilangan  ke. " + q + " masukan input ");
+                b[bil] = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Apa yang ingin anda lakukan ?");
+            Console.WriteLine("1.+  2.-  3.*  4.:  ");
+            jawab = int.Parse(Console.ReadLine());
+            Console.WriteLine("berapa bilangan yang ingin anda hitung : ");
+            jum = int.Parse(Console.ReadLine());
+            int[] n = new int[jum];
+            for (int j = 0; j < jum; j++)
+            {
+                n[j] = int.Parse(Console.ReadLine());
+                n[j] = n[j] - 1;
+            }
+            total = b[n[0]];
+            if (jawab == 1)
+            {
+                for(int tambah = 1; tambah < jum; tambah++)
+                {
+                    total = total + b[n[tambah]];
+                }
+            }
+            else if (jawab == 2)
+            {
+                for(int kurang = 1; kurang < jum; kurang++)
+                {
+                    total = total - b[n[kurang]];
+                }
+            }
+            else if (jawab == 3)
+            {
+                for(int kali = 1;kali < jum; kali++)
+                {
+                    total = total * b[n[kali]];
+                }
+            }
+            else
+            {
+                for(int bagi = 1; bagi < jum; bagi++)
+                {
+                    total = total / b[n[bagi]];
+                }
+            }
+            Console.WriteLine("total = "  + total);
+            Console.ReadLine();
+        }
+    }
+}

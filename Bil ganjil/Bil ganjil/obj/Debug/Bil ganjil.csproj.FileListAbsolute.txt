@@ -1,0 +1,30 @@
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe.config
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.pdb
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.csprojResolveAssemblyReference.cache
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.exe
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.pdb
+G:\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe.config
+G:\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.exe
+G:\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.pdb
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe.config
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.exe
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.pdb
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.pdb
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\System.Net.Http.xml
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\normidna.nlp
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\normnfc.nlp
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\normnfd.nlp
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\normnfkc.nlp
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\Nisa Agustina\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Bil ganjil\Bil ganjil\bin\Debug\Bil ganjil.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Bil ganjil\Bil ganjil\obj\Debug\Bil ganjil.csprojResolveAssemblyReference.cache

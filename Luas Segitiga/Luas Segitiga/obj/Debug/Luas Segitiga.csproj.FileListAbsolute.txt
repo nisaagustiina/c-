@@ -1,0 +1,28 @@
+c:\users\hp\documents\visual studio 2015\Projects\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe.config
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe.config
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.pdb
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.csprojResolveAssemblyReference.cache
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.exe
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.pdb
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe.config
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.exe
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.pdb
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.pdb
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\System.Net.Http.xml
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\normidna.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\normnfc.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\normnfd.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\normnfkc.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Luas Segitiga\Luas Segitiga\bin\Debug\Luas Segitiga.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Luas Segitiga\Luas Segitiga\obj\Debug\Luas Segitiga.csprojResolveAssemblyReference.cache

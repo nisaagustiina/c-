@@ -1,0 +1,21 @@
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\Konversi Data.exe.config
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\Konversi Data.exe.config
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\Konversi Data.exe
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\Konversi Data.pdb
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\System.Net.Http.xml
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\normidna.nlp
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\normnfc.nlp
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\normnfd.nlp
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\normnfkc.nlp
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\obj\Debug\Konversi Data.exe
+C:\Users\User\Documents\Nisa Agustina\Konversi Data\Konversi Data\obj\Debug\Konversi Data.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Konversi Data\Konversi Data\bin\Debug\Konversi Data.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Konversi Data\Konversi Data\obj\Debug\Konversi Data.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Konversi Data\Konversi Data\obj\Debug\Konversi Data.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Konversi Data\Konversi Data\bin\Debug\Konversi Data.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Konversi Data\Konversi Data\bin\Debug\Konversi Data.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Konversi Data\Konversi Data\obj\Debug\Konversi Data.csprojResolveAssemblyReference.cache

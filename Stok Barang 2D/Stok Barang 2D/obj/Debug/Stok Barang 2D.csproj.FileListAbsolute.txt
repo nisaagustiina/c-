@@ -1,0 +1,21 @@
+c:\users\asus x441ua\documents\visual studio 2015\Projects\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe.config
+c:\users\asus x441ua\documents\visual studio 2015\Projects\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe
+c:\users\asus x441ua\documents\visual studio 2015\Projects\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.pdb
+c:\users\asus x441ua\documents\visual studio 2015\Projects\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.csprojResolveAssemblyReference.cache
+c:\users\asus x441ua\documents\visual studio 2015\Projects\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.exe
+c:\users\asus x441ua\documents\visual studio 2015\Projects\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.pdb
+D:\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe.config
+D:\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.exe
+D:\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.pdb
+D:\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe
+D:\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.pdb
+D:\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.csprojResolveAssemblyReference.cache
+G:\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe.config
+G:\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.exe
+G:\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Stok Barang 2D\Stok Barang 2D\bin\Debug\Stok Barang 2D.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects_\Stok Barang 2D\Stok Barang 2D\obj\Debug\Stok Barang 2D.csprojResolveAssemblyReference.cache

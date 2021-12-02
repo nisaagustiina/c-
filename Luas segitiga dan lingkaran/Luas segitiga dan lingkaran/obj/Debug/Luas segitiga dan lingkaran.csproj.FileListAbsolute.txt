@@ -1,0 +1,22 @@
+E:\Proyek Dhafa\Visual Studio\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.exe.config
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.exe.config
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.exe
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.pdb
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\obj\Debug\Luas segitiga dan lingkaran.csprojResolveAssemblyReference.cache
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\obj\Debug\Luas segitiga dan lingkaran.exe
+C:\Users\RPL\Desktop\TF\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\obj\Debug\Luas segitiga dan lingkaran.pdb
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.exe.config
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\obj\Debug\Luas segitiga dan lingkaran.exe
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\obj\Debug\Luas segitiga dan lingkaran.pdb
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.exe
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\Luas segitiga dan lingkaran.pdb
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\System.Net.Http.xml
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\normidna.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\normnfc.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\normnfd.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\normnfkc.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\Nisa Agustina\Luas segitiga dan lingkaran\Luas segitiga dan lingkaran\obj\Debug\Luas segitiga dan lingkaran.csprojResolveAssemblyReference.cache
